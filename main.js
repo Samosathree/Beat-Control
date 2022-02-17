@@ -1,9 +1,9 @@
-Kda = "";
-Itzy = "";
+Dun = "";
+icy = "";
 
 function preload(){
-    Kda = loadSound("DrumGoDum.mp3");
-    Itzy = loadSound("Icy.mp3");
+    Dun = loadSound("DunDun.mp3");
+    icy = loadSound("Icy.mp3");
 }
 
 function setup(){
